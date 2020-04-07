@@ -1,0 +1,7 @@
+{
+  "name": "typescript-import-types-bug",
+  "private": true,
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
